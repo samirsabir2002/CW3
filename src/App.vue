@@ -69,7 +69,7 @@ export default {
   },
   data() {
     return {
-      sitename: 'After School Activities',
+      sitename: 'MDX University',
       products: [],
       cart: [],
       searchQuery: '',
